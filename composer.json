@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+      "ext-json": "*",
+      "ext-simplexml": "*",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
